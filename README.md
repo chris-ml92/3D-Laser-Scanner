@@ -9,8 +9,8 @@ To debug the program the file contains the following variables:
 ### 3D laser scanner
 python 3Dscanner.py ​will execute the laser scanner.
 To debug the program the file contains the following variables:
--**test boolean variable**
--**test3d boolean variable which executes an almost real time processing**
+- **test boolean variable**
+- **test3d boolean variable** - executes an almost real time processing
 
 File names can be changed in the main of the 3Dscanner.py file.
 Dependencies
