@@ -23,3 +23,15 @@ The following packages have been used:
 ● Open3d
 ● glob3
 
+Processing times
+The test were performed on Windows 10 build 19041: i7 8700k, 24b Ram DDR4
+According to the data obtained below, and knowing that the videos are 15FPS, we can say
+that on average we have a processing time per frame of 0.082s.
+
+| File name  | Video length | Total Processing Time | Frames Processing |
+| ---------- | ------------ | --------------------- | ----------------  |
+| cup1.mp4   | 62s          | 87s                   | 78s               |
+| cup2.mp4   | 45s          | 66s                   | 58s               |
+| puppet.mp4 | 53s          | 73s                   | 64s               |
+| soap.mp4   | 72s          | 97s                   | 87s               |
+
