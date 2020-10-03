@@ -2,6 +2,7 @@
 
 ### Calibrating the Camera
 python Chessboard.py​ will produce the intrinsics.xml file and calibrate the camera.
+
 To debug the program the file contains the following variables:
 - **test boolean variable**
 - **modulus** - shows only an amount of images
